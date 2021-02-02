@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Bienvenido
 ![Was17](https://github.com/Was17/Was17/blob/main/Was2021.014.jpeg)
+
+Proximamente te contare más sobre mis proyectos!!
 
 <!--
 **Was17/Was17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
