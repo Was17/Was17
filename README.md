@@ -4,7 +4,7 @@
 Proximamente te contare más sobre mis proyectos!!
 
 ## Skills
-![Android](https://github.com/Was17/Was17/blob/main/Social_Profile_Mirko.png)
+![Android](https://github.com/Was17/Was17/blob/main/f8a6d31ae7975c90a07de6fd22540aef.png)
 <!--
 **Was17/Was17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
