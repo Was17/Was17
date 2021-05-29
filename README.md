@@ -5,7 +5,7 @@ Proximamente te contare más sobre mis proyectos!!
 
 ## Skills
 
-![Custom badge](https://img.shields.io/endpoint?color=Green&labelcolor=Green&label=Android&logo=Android&style=for-the-badge&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&labelColor=101010)</br>
 
 
 <!--**Was17/Was17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
