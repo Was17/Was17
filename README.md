@@ -1,11 +1,12 @@
-### Hi there 👋 Bienvenido
+# WAS17
 ![Was17](https://github.com/Was17/Was17/blob/main/Was2021.014.jpeg)
 
-Proximamente te contare más sobre mis proyectos!!
+## PROYECTS
+It's coming
 
-## Skills
+## SKILLS
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&color=28c9d6&labelColor=28c9d6?logoColor=white)</br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&color=333&labelColor=333?logoColor=white)</br>
 
 
 <!--**Was17/Was17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
