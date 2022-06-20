@@ -1,5 +1,4 @@
 # WAS17
-![Was17](https://github.com/Was17/Was17/blob/main/Was2021.014.jpeg)
 
 ## PROYECTS
 It's coming
